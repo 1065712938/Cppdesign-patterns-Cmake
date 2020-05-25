@@ -5,7 +5,7 @@ enum CTYPE{
     COREA,
     COREB
 };
-//基类
+//基类2
 class SingleCore
 {
     public:
